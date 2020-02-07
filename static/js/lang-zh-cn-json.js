@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-zh-cn-json"],{e45c:function(n){n.exports=JSON.parse('{"user":{"page":"这是vue页面","name":"刘桥","nickName":"桥桥"}}')}}]);

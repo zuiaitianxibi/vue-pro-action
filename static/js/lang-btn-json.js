@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-btn-json"],{ef1d:function(n){n.exports=JSON.parse('{"zh-cn":{"btnType":"按钮类型"},"en-us":{"btnType":"button type"}}')}}]);

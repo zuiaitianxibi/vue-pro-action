@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["lang-intro-en-json"],{2585:function(n){n.exports=JSON.parse('{"en-us":{"btnValue":"button value"}}')}}]);
