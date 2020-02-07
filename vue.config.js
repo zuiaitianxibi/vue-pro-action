@@ -10,11 +10,11 @@ const isProduction = process.env.NODE_ENV === 'production';
 
 
 module.exports = {
-    baseUrl: '/vue-pro-action/',
     devServer: {
         disableHostCheck: true,
         contentBase: path.join(__dirname, '.'),
     },
+    publicPath: '/vue-pro-action/',
     assetsDir,
     // 本地开发环境在根目录，其他环境在/solution2/目录下
     productionSourceMap: false,
